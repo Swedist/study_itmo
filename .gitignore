@@ -1,0 +1,4 @@
+### Ignore
+*.venv
+
+### Exception files
