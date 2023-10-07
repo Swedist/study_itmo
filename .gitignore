@@ -1,4 +1,7 @@
 ### Ignore
 *.venv
+*mlt_tasks
+*.prqt
+*.csv
 
 ### Exception files
