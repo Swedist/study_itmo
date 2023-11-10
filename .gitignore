@@ -3,5 +3,7 @@
 *mlt_tasks
 *.prqt
 *.csv
+*.txt
 
 ### Exception files
+!requerments.txt
