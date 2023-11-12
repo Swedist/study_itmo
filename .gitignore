@@ -4,6 +4,9 @@
 *.prqt
 *.csv
 *.txt
+*.venv-nn
+*.jpg
+*.h5
 
 ### Exception files
 !requerments.txt
