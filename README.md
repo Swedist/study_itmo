@@ -11,6 +11,9 @@
 
 3. `parallel_algorithms` - Parallel algorithms for the analysis and synthesis of data \
    Performed by Fyodor Prazdnikov
+
+4. `ml_and_advanced_ml` - Introduction to Machine Learning (Python) and Advanced Machine Learning (Python) \
+   Performed by Fyodor Prazdnikov
  
 ### Установка зависимостей
 
