@@ -9,6 +9,7 @@
 *.jpg
 *.h5
 *.json
+*.png
 
 ### Exception files
 !requerments.txt
