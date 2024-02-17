@@ -5,8 +5,10 @@
 *.csv
 *.txt
 *.venv-nn
+*.venv-parallel-algorithms
 *.jpg
 *.h5
+*.json
 
 ### Exception files
 !requerments.txt

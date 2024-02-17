@@ -3,10 +3,13 @@
 
 ### Структура
 
-1. algorithms - Анализ и разработка алгоритмов / Analysis and development of algorithms \
+1. `algorithms` - Analysis and development of algorithms \
    Performed by Arina Shinkorenok, Nikita Matveev, Fyodor Prazdnikov
 
-2. mlt - Machine Learning Technologies \
+2. `mlt` - Machine Learning Technologies \
+   Performed by Fyodor Prazdnikov
+
+3. `parallel_algorithms` - Parallel algorithms for the analysis and synthesis of data \
    Performed by Fyodor Prazdnikov
  
 ### Установка зависимостей
